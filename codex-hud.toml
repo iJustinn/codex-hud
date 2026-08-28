@@ -1,0 +1,5 @@
+# Loaded once at startup. Override with CODEX_HUD_CONFIG=/absolute/path/to/file.toml.
+enabled = true
+context_bar_width = 20
+show_cost = true
+show_rate_limits = true
